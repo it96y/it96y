@@ -1,5 +1,5 @@
 # 💫 Xin chao, this is it96y's repo
-I am a third-year Information Technology student focused on systems-level engineering and data infrastructure. <br>I'm looking forward to optimizing my learning path and seeking roles in automation, and data pipelines. <br>My skillsets are orienting towards reproducible systems, observable outcomes, and measurable impact.
+I am a 4th-year Information Technology student focusing on data analytics and data infrastructure. <br>I'm looking forward to optimizing my learning path and seeking roles in *Data Analysis* and *Data Pipelines Development*. <br>My skillsets are orienting towards *analysing raw data*, putting it into *effective analysis*; *building* reliable and sustainable *machine learning model*, and *manual software testing*.
 
 
 ## 🌐 Socials
